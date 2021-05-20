@@ -5,14 +5,14 @@
     Theme name: Nginxy
     Theme author: @lfelipe1501
 \*------------------------------------*/
-@import url('//fonts.googleapis.com/css?family=Open+Sans');
+/* @import url('//fonts.googleapis.com/css?family=Open+Sans'); */
 /* Have to use @import for the font, as you can only specify a single stylesheet */
 * {
     margin:0;
     padding:0;
     -webkit-box-sizing:border-box;
        -moz-box-sizing:border-box;
-           box-sizing: border-box; 
+           box-sizing: border-box;
 }
 
 html {
